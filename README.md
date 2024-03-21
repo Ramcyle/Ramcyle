@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @james am front end developer
+- 👀 I’m interested in creating free website templates
+- 🌱 I’m currently learning javascript and rubi
+- 💞️ I’m looking to collaborate with any full stack developer
+- 📫 How to reach me (0708605639
